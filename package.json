@@ -1,0 +1,20 @@
+{
+  "name": "hnb-collector",
+  "version": "1.0.0",
+  "description": "utility that for given dates collects exchange rate data from croatian hnb page and streams it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hnb"
+  ],
+  "author": "Josip Grgurica",
+  "license": "ISC",
+  "dependencies": {
+    "date-utils": "^1.2.17",
+    "event-stream": "^3.3.1",
+    "fecha": "^0.2.1",
+    "request": "^2.55.0"
+  }
+}
