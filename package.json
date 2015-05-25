@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "utility that for given dates collects exchange rate data from croatian hnb page and streams it",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josipgrgurica/hnb-collector.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
